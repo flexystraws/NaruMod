@@ -1,0 +1,4 @@
+displayName = Naruto Mod
+author = Straws
+version = 0.1
+includePDB = true
